@@ -1,0 +1,10 @@
+body{
+	font-family: 'PT Sans', sans-serif;
+}
+
+.gui-box{
+	margin: 5%;
+	padding: 5%;
+	box-shadow: 2px 8px 45px rgb(0,0,0,0.26);
+	border: 0.5px solid lightgray;
+}
